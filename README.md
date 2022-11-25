@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pragya!
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning angular and some web developer tools.
+- 🌱 I’m currently learning react.js and some web developer tools.
 - 📫 Contact me - pragyaverma0807@gmail.com
 
 <!---
